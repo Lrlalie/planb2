@@ -58,14 +58,7 @@ public class Person {
 	 * @param idPersonne
 	 * @param firstName
 	 * @param lastName
-	 * @param eMail
-	 * @param mobile
-	 * @param address
-	 * @param postalCode
-	 * @param country
-	 * @param homePhone
-	 * @param jobPhone
-	 * @param qrCode
+	 
 	 */
 	public Person(long idPersonne, String firstName, String lastName) {
 		super();
