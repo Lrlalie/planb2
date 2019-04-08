@@ -32,7 +32,7 @@
 * Forms to enter : users, customers, projects, quotations, bills
 * databases and tables
 ---
-##Bug
+## Bug
 * The April 8th 2019 : I encontered a problem : yesterday, I used PIVOTAL to deploy my application, it works. But there is something strange : i lost my classes : Person, User, Contact, and the pom.xml
 my application continue to work in PIVOTAL, so i think that i pushed it with this classes directly on pivotal platform. I am trying to retrieve my classes in Github, but annotations aren't recognized anymore, and my pom.xml isn't present in the application anymore. So I decided to make a new application ... :o( and to keep this one in that state.
 
